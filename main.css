@@ -1,0 +1,67 @@
+.div1{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+.para{
+    color: rgb(197, 197, 238);
+}
+.Titre{
+   color: rgba(0, 0, 255, 0.973)
+}
+
+
+.div1 {
+    width: 100%;
+    height: 23px;
+    background-color: black;
+    color: white;
+}
+.div2{
+    margin-right: 21px;
+    margin-left: 1000px;
+    margin-bottom: 50px;
+    margin-top: -315px;
+    background-color: #9e9e9e6e;
+    border-radius: 15px 15px 15px 15px ;
+    width: 18%;
+}
+.div3{
+    margin-right: 50px;
+    margin-left: 716px;
+    margin-bottom: 31px;
+   
+}
+    .para{
+        margin-top: -25px;
+    }
+    .image1{
+        width: 10%;
+        height: 140px;
+        margin-top: -201px;
+        margin-bottom: 55px;
+    }
+    .trait1{
+        margin-top: 0px;
+        margin-bottom:  5px;
+    }
+    .Nom{
+        margin-bottom: -79px;
+    margin-top: 166px;
+    }
+    .coord1{
+        margin-left: 3px;
+        margin-right: -17px;
+        margin-bottom: -27px;
+        margin-top: 7px;
+    }
+    .coord2{
+        margin-left: 710px;
+        margin-right: -17px;
+        margin-bottom: 12px;
+        margin-top: 10px;
+    }
+    .pet{
+        color: black;
+    }
